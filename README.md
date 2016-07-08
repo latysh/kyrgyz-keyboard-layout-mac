@@ -2,7 +2,7 @@
 
 Kyrgyz keyboard layout comes by default with Windows operating systems. However it is not available by default for OS X. Here is a keyboard layout for you to install and be able to use additional 3 (ү, ө, ң) characters in kyrgyz language. Rest of keyboard is same with Russian.
 
-![KG flag](https://drive.google.com/file/d/0B6KytVbW03gNSGFoVllDbmRENzQ/preview)  
+![KG flag](screenshot.png)  
 
 ### How to install
 
