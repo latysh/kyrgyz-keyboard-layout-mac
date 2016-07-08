@@ -2,6 +2,8 @@
 
 Kyrgyz keyboard layout comes by default with Windows operating systems. However it is not available by default for OS X. Here is a keyboard layout for you to install and be able to use additional 3 (ү, ө, ң) characters in kyrgyz language. Rest of keyboard is same with Russian.
 
+![Alt text](https://drive.google.com/file/d/0B6KytVbW03gNSGFoVllDbmRENzQ/view?usp=sharing)  
+
 ### How to install
 
 1. Download 2 files **Kyrgyz.icns** and **Kyrgyz.keylayout** to your computer. 
@@ -28,3 +30,37 @@ Keyboard is similar to Windows one. Press **option** key then у, о, н to gene
 
 ### You may need to restart your computer to see the flag. 
 
+
+---
+
+
+# MAC колдонуучуларга кыргызча клавиатура.
+
+Өзүнүздөр билгендей эле OS X иштетүү системаларында кыргызча клавиатура жок. Бул файлдарды жүктөп алып кыргыз тилиндеги кошумча 3 тамганы колдонсоңор болот. Windows системасыныкына окшош.
+ 
+### Көчүрүү
+
+1. **Kyrgyz.icns** жана **Kyrgyz.keylayout** файлдарын компьютерге жүктөш керек. 
+2. Жана аларды **~/Library/Keyboard\ Layouts/** папкасына көчүрөсүз
+
+Эгер git менен тааныш болсоңуз төмөндөгү коммандаларды да колдонсоңуз болот.
+
+```sh
+git clone https://github.com/latysh/kyrgyz-keyboard-layout-mac.git
+cd kyrgyz-keyboard-layout-mac/
+sudo cp Kyrgyz.* /Library/Keyboard\ Layouts/
+```
+
+### Орнотуу
+
+1. **System Preferences** ачасыз
+2. **input Sources** ди тандап
+3. **+** кнопкасын басыңыз
+4. **Others** ти баскан соң **Кыргызча** дегенди көрөсүз
+5. Ошону тандап анан **Add** кнопкасын басасыз.
+
+### Колдонуу
+Windows систмасына окшош. **option** клавишаны баскан бойдон у, о, н тамгаларын бассаңыз ү, ө, ң басылышы керек.
+
+### Баары бүткөн соң компьютерди рестарт кылыныз.
+  
