@@ -23,5 +23,8 @@ sudo cp Kyrgyz.* /Library/Keyboard\ Layouts/
 4. Select **Others** and you should see **Кыргызча**
 5. Choose it then click **Add**
 
+### How to use
+Keyboard is similar to Windows one. Press **option** key then у, о, н to generate ү, ө, ң respectively.
+
 ### You may need to restart your computer to see the flag. 
 
