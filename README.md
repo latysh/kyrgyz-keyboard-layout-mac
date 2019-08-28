@@ -20,10 +20,11 @@ sudo cp Kyrgyz.* /Library/Keyboard\ Layouts/
 ### How to add to keyboard 
 
 1. Open **System Preferences**
-2. Click on **input Sources** tab
-3. Click **+** button
-4. Select **Others** and you should see **Кыргызча**
-5. Choose it then click **Add**
+2. Select **Keyboard**
+3. Click on **input Sources** tab
+4. Click **+** button
+5. Select **Others** and you should see **Кыргызча**
+6. Choose it then click **Add**
 
 ### How to use
 Keyboard is similar to Windows one. Press **option** key then у, о, н to generate ү, ө, ң respectively.
@@ -54,10 +55,11 @@ sudo cp Kyrgyz.* /Library/Keyboard\ Layouts/
 ### Орнотуу
 
 1. **System Preferences** ачасыз
-2. **input Sources** ди тандап
-3. **+** кнопкасын басыңыз
-4. **Others** ти баскан соң **Кыргызча** дегенди көрөсүз
-5. Ошону тандап анан **Add** кнопкасын басасыз.
+2. **Keyboard** ту тандаңыз
+3. **input Sources** ди тандап
+4. **+** кнопкасын басыңыз
+5. **Others** ти баскан соң **Кыргызча** дегенди көрөсүз
+6. Ошону тандап анан **Add** кнопкасын басасыз.
 
 ### Колдонуу
 Windows систмасына окшош. **option** клавишаны баскан бойдон у, о, н тамгаларын бассаңыз ү, ө, ң басылышы керек.
